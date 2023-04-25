@@ -1,6 +1,6 @@
 Hi, I'm Barack 👋
 - 👀 I'm interested in Backend Development
-- 🌱 Currently learning HTTP Networking
+- 🌱 Currently learning Networking
 - 📫 How to reach me -> email: walindibarack@yahoo.com
 
 <a href="https://github.com/anuraghazra/convoychat">
